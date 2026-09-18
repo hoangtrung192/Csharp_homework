@@ -1,0 +1,10 @@
+D:\Ky 5\Lap Trinh Truc Quan\bai3Chuong4(winform)\bai3Chuong4(winform)\bin\Debug\bai3Chuong4(winform).exe.config
+D:\Ky 5\Lap Trinh Truc Quan\bai3Chuong4(winform)\bai3Chuong4(winform)\bin\Debug\bai3Chuong4(winform).exe
+D:\Ky 5\Lap Trinh Truc Quan\bai3Chuong4(winform)\bai3Chuong4(winform)\bin\Debug\bai3Chuong4(winform).pdb
+D:\Ky 5\Lap Trinh Truc Quan\bai3Chuong4(winform)\bai3Chuong4(winform)\obj\Debug\bai3Chuong4(winform).csproj.AssemblyReference.cache
+D:\Ky 5\Lap Trinh Truc Quan\bai3Chuong4(winform)\bai3Chuong4(winform)\obj\Debug\bai3Chuong4_winform_.Form1.resources
+D:\Ky 5\Lap Trinh Truc Quan\bai3Chuong4(winform)\bai3Chuong4(winform)\obj\Debug\bai3Chuong4_winform_.Properties.Resources.resources
+D:\Ky 5\Lap Trinh Truc Quan\bai3Chuong4(winform)\bai3Chuong4(winform)\obj\Debug\bai3Chuong4(winform).csproj.GenerateResource.cache
+D:\Ky 5\Lap Trinh Truc Quan\bai3Chuong4(winform)\bai3Chuong4(winform)\obj\Debug\bai3Chuong4(winform).csproj.CoreCompileInputs.cache
+D:\Ky 5\Lap Trinh Truc Quan\bai3Chuong4(winform)\bai3Chuong4(winform)\obj\Debug\bai3Chuong4(winform).exe
+D:\Ky 5\Lap Trinh Truc Quan\bai3Chuong4(winform)\bai3Chuong4(winform)\obj\Debug\bai3Chuong4(winform).pdb

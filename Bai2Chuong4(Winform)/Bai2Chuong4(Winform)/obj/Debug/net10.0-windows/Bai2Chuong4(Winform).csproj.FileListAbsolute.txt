@@ -1,0 +1,17 @@
+D:\Ky 5\Lap Trinh Truc Quan\Bai2Chuong4(Winform)\Bai2Chuong4(Winform)\bin\Debug\net10.0-windows\Bai2Chuong4(Winform).exe
+D:\Ky 5\Lap Trinh Truc Quan\Bai2Chuong4(Winform)\Bai2Chuong4(Winform)\bin\Debug\net10.0-windows\Bai2Chuong4(Winform).deps.json
+D:\Ky 5\Lap Trinh Truc Quan\Bai2Chuong4(Winform)\Bai2Chuong4(Winform)\bin\Debug\net10.0-windows\Bai2Chuong4(Winform).runtimeconfig.json
+D:\Ky 5\Lap Trinh Truc Quan\Bai2Chuong4(Winform)\Bai2Chuong4(Winform)\bin\Debug\net10.0-windows\Bai2Chuong4(Winform).dll
+D:\Ky 5\Lap Trinh Truc Quan\Bai2Chuong4(Winform)\Bai2Chuong4(Winform)\bin\Debug\net10.0-windows\Bai2Chuong4(Winform).pdb
+D:\Ky 5\Lap Trinh Truc Quan\Bai2Chuong4(Winform)\Bai2Chuong4(Winform)\obj\Debug\net10.0-windows\Bai2Chuong4_Winform_.Form1.resources
+D:\Ky 5\Lap Trinh Truc Quan\Bai2Chuong4(Winform)\Bai2Chuong4(Winform)\obj\Debug\net10.0-windows\Bai2Chuong4(Winform).csproj.GenerateResource.cache
+D:\Ky 5\Lap Trinh Truc Quan\Bai2Chuong4(Winform)\Bai2Chuong4(Winform)\obj\Debug\net10.0-windows\Bai2Chuong4(Winform).GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky 5\Lap Trinh Truc Quan\Bai2Chuong4(Winform)\Bai2Chuong4(Winform)\obj\Debug\net10.0-windows\Bai2Chuong4(Winform).AssemblyInfoInputs.cache
+D:\Ky 5\Lap Trinh Truc Quan\Bai2Chuong4(Winform)\Bai2Chuong4(Winform)\obj\Debug\net10.0-windows\Bai2Chuong4(Winform).AssemblyInfo.cs
+D:\Ky 5\Lap Trinh Truc Quan\Bai2Chuong4(Winform)\Bai2Chuong4(Winform)\obj\Debug\net10.0-windows\Bai2Chuong4(Winform).csproj.CoreCompileInputs.cache
+D:\Ky 5\Lap Trinh Truc Quan\Bai2Chuong4(Winform)\Bai2Chuong4(Winform)\obj\Debug\net10.0-windows\Bai2Chuong4(Winform).dll
+D:\Ky 5\Lap Trinh Truc Quan\Bai2Chuong4(Winform)\Bai2Chuong4(Winform)\obj\Debug\net10.0-windows\refint\Bai2Chuong4(Winform).dll
+D:\Ky 5\Lap Trinh Truc Quan\Bai2Chuong4(Winform)\Bai2Chuong4(Winform)\obj\Debug\net10.0-windows\Bai2Chuong4(Winform).pdb
+D:\Ky 5\Lap Trinh Truc Quan\Bai2Chuong4(Winform)\Bai2Chuong4(Winform)\obj\Debug\net10.0-windows\Bai2Chuong4(Winform).genruntimeconfig.cache
+D:\Ky 5\Lap Trinh Truc Quan\Bai2Chuong4(Winform)\Bai2Chuong4(Winform)\obj\Debug\net10.0-windows\ref\Bai2Chuong4(Winform).dll
+D:\Ky 5\Lap Trinh Truc Quan\Bai2Chuong4(Winform)\Bai2Chuong4(Winform)\obj\Debug\net10.0-windows\Bai2Chuo.836413AD.Up2Date
