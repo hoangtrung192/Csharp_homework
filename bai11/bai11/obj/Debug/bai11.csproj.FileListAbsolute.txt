@@ -1,0 +1,10 @@
+D:\seesharp\bai11\bai11\bin\Debug\bai11.exe.config
+D:\seesharp\bai11\bai11\bin\Debug\bai11.exe
+D:\seesharp\bai11\bai11\bin\Debug\bai11.pdb
+D:\seesharp\bai11\bai11\obj\Debug\bai11.csproj.AssemblyReference.cache
+D:\seesharp\bai11\bai11\obj\Debug\bai11.Form1.resources
+D:\seesharp\bai11\bai11\obj\Debug\bai11.Properties.Resources.resources
+D:\seesharp\bai11\bai11\obj\Debug\bai11.csproj.GenerateResource.cache
+D:\seesharp\bai11\bai11\obj\Debug\bai11.csproj.CoreCompileInputs.cache
+D:\seesharp\bai11\bai11\obj\Debug\bai11.exe
+D:\seesharp\bai11\bai11\obj\Debug\bai11.pdb
