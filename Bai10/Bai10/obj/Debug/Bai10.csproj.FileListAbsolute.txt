@@ -1,0 +1,10 @@
+D:\C#\Bai10\Bai10\obj\Debug\Bai10.csproj.AssemblyReference.cache
+D:\C#\Bai10\Bai10\obj\Debug\Bai10.Form1.resources
+D:\C#\Bai10\Bai10\obj\Debug\Bai10.Properties.Resources.resources
+D:\C#\Bai10\Bai10\obj\Debug\Bai10.csproj.GenerateResource.cache
+D:\C#\Bai10\Bai10\obj\Debug\Bai10.csproj.CoreCompileInputs.cache
+D:\C#\Bai10\Bai10\bin\Debug\Bai10.exe.config
+D:\C#\Bai10\Bai10\bin\Debug\Bai10.exe
+D:\C#\Bai10\Bai10\bin\Debug\Bai10.pdb
+D:\C#\Bai10\Bai10\obj\Debug\Bai10.exe
+D:\C#\Bai10\Bai10\obj\Debug\Bai10.pdb
